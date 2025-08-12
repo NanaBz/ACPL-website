@@ -1,4 +1,4 @@
-# ACPL League Scheduler Project (Archived)
+# ACPL Website Project (Archived)
 
 This repository was an attempt to create a website for my school's football league system (Acity Premier League).
 
